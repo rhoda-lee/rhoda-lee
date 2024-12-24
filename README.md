@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on myself....lol
-- 🌱 I’m currently learning Backend Development with Python
-- 👯 I’m looking to collaborate on any Python or Data Science and Analytics Projects
-- 🤔 I’m looking for help with OOP
-- 💬 Ask me about Technology
+- 🔭 I’m currently working on a Student Feedback Management System
+- 🌱 I’m currently learning Backend Development
+- 👯 I’m looking to collaborate on any Python or Fullstack Applications
+- 🤔 I’m looking for help with Data Structures and Algorithms
+- 💬 Ask me about anything
 - 📫 How to reach me: rhodalee.dev@gmail.com
 - ⚡ Fun fact: I love reading, writing and Indomie
 
