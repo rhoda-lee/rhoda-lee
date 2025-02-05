@@ -7,7 +7,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on a Student Feedback Management System
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m currently learning Node.js and Express.js
 - 👯 I’m looking to collaborate on any Python or Fullstack Applications
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 💬 Ask me about anything
