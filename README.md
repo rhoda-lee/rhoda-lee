@@ -6,13 +6,13 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on a Student Feedback Management System
-- 🌱 I’m currently learning Node.js and Express.js
+- 🔭 I’m currently working on a ....
+- 🌱 I’m currently learning FastAPI
 - 👯 I’m looking to collaborate on any Python or Fullstack Applications
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 💬 Ask me about anything
 - 📫 How to reach me: rhodalee.dev@gmail.com
-- ⚡ Fun fact: I love reading, writing and Indomie
+- ⚡ Fun fact: I love readingand writing
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rhoda-lee&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
