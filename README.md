@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:-->
 # 💫 About Me:
-- 🔭 I’m currently working on an end-to-end Todo API to learn backend technologies
+- 🔭 I’m currently working on an end-to-end Notes API to learn backend technologies
 - 🌱 I’m currently learning FastAPI and AI technologies
-- 👯 I’m looking to collaborate on any Python or Fullstack Applications
+- 👯 I’m looking to collaborate on any Python or Backend Applications
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 💬 Ask me about anything
 - 📫 How to reach me: rhodalee.dev@gmail.com
